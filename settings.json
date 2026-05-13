@@ -9,7 +9,7 @@
     "ip": "TheMonkeyServer.aternos.me",
     "port": 43143,
     "version": "1.21.11",
-    "try-creative": True
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": False,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
