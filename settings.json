@@ -9,7 +9,7 @@
     "ip": "TheMonkeyServer.aternos.me",
     "port": 43143,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": True
   },
   "position": {
     "enabled": true,
