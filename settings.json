@@ -8,7 +8,7 @@
   "server": {
     "ip": "TheMonkeyServer.aternos.me",
     "port": 43143,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
