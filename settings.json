@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "MONKEYAFKBOT",
     "password": "",
-    "type": "ofline"
+    "type": "offline"
   },
   "server": {
     "ip": "TheMonkeyServer.aternos.me",
